@@ -1,0 +1,54 @@
+// Container widths
+$container-width: 1330px;
+
+// Colors
+$primary-color: #6400a6;
+
+$base-black: #212529;
+$gray: #6b7280;
+$light-purple: #e5d3f2;
+
+$background-gray: #eff1f1;
+$background-white: #f9fafb;
+$border-gray: #d1d5db;
+
+$white: #fff;
+$black: #000;
+
+// Fonts
+$primary-font: "Nunito Sans", sans-serif;
+$secondary-font: sans-serif;
+
+// Font Sizes
+// $font-size-xsmall: 10px;
+// $font-size-small: 14px;
+// $font-size-base: 16px;
+// $font-size-large: 18px;
+// $font-size-xlarge: 20px;
+
+// Heading sizes
+$font-size-h1: 70px;
+$font-size-h2: 35px;
+$font-size-h3: 18px;
+$font-size-h4: 14px;
+$font-size-h5: 12px;
+$font-size-h6: 10px;
+
+// Breakpoints
+$mac: 1440px;
+$lt: 1366px;
+$ls1: 1300px;
+$ls: 1280px;
+$lg: 1199px;
+$md1: 1100px;
+$ipod: 1024px;
+$md: 991px;
+$sm1: 900px;
+$sm: 767px;
+$mb2: 700px;
+$mb1: 580px;
+$mb: 480px;
+$ip: 420px;
+$xs: 350px;
+
+@import "../node_modules/bootstrap/scss/bootstrap";
